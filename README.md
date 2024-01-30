@@ -1,5 +1,5 @@
 #### Introduction
-Welcome to the **Covid-19 Data Analysis Project (guided by Coursera)**😷!
+Welcome to the **Covid-19 Data Analysis Project(guided by Coursera)** 😷!
 
 
 🦠 In this project we worked with Covid-19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. 
